@@ -1,0 +1,1 @@
+Faccio la prima riga in questo file tramite il console
